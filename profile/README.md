@@ -45,10 +45,6 @@
 
 ---
 
-## 🪑 UKIRE Backend - Furniture E-Commerce
-
-**UKIRE Backend** adalah tulang punggung dari aplikasi e-commerce furniture ukir UKIRE. Proyek ini bertanggung jawab untuk menyediakan API RESTful untuk komunikasi dengan frontend, serta panel admin untuk pengelolaan data produk, kategori, pesanan, dan pengguna.
-
 ### ✨ Fitur Utama (Backend)
 
 - ✅ **Manajemen Produk:** API untuk mengelola data ukiran kayu (Produk).
@@ -91,7 +87,7 @@ Pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda:
 
 - **Email:** info@ukire.my.id
 - **Telepon:** +62 8529-0010-938
-- **Alamat:** Sleman, DI Yogyakarta, Indonesia
+- **Alamat:** Jepara, Jawa Tengah, Indonesia
 - **Website:** [ukire.my.id](https://ukire.my.id)
 
 ---
