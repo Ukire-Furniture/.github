@@ -14,7 +14,7 @@
 
 ## 🪑 Tentang UKIRE
 
-**UKIRE** adalah aplikasi e-commerce furniture ukir berbasis React, Vite, dan Tailwind CSS yang modern, responsif, dan mudah dikembangkan. Proyek ini dibuat untuk memudahkan pengguna mencari, memesan, dan membeli produk furniture ukir berkualitas tinggi dari pengrajin lokal Indonesia.
+**UKIRE** adalah aplikasi e-commerce furniture ukir. Proyek ini dibuat untuk memudahkan pengguna mencari, memesan, dan membeli produk furniture ukir berkualitas tinggi dari pengrajin lokal Indonesia.
 
 ---
 
