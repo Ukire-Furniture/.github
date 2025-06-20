@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo ukire.png" alt="Ukire Logo" title="Logo Ukire" width="160"/>
+  <img src="ukire.png" alt="Ukire Logo" title="Logo Ukire" width="160"/>
 </div>
 
 <h1 align="center">UKIRE - Furniture E-Commerce</h1>
